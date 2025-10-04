@@ -1,0 +1,6 @@
+[submodule "employee-frontend"]
+	path = employee-frontend
+	url = https://github.com/nanisam07/FRONTEND-EMS.git
+[submodule "employee-backend"]
+	path = employee-backend
+	url = https://github.com/nanisam07/EMS-Backend.git
