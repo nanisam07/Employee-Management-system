@@ -6,7 +6,7 @@ It allows organizations to **add, edit, and manage employee data** while giving 
 ---
 
 ## 🚀 Live Demo  
-🔗 **Frontend:** [Employee Management System UI](https://your-frontend-link.onrender.com)  
+🔗 **Frontend:** [Employee Management System UI](https://staffproems.vercel.app/)  
 🔗 **Backend API:** [EMS API](https://ems-backend-cwlh.onrender.com)  
 
 ---
